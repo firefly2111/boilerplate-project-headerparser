@@ -1,7 +1,7 @@
 {
 	"name": "request_header",
 	"version": "0.0.1",
-	"description": "API project for freeCodeCamp",
+	"description": "Second project for Node.js",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -11,7 +11,7 @@
 		"cors": "^2.8.1"
 	},
 	"engines": {
-		"node": "4.4.5"
+		"node": "10.0.0"
 	},
 	"repository": {
 		"type": "git",
